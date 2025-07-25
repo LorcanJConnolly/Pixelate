@@ -1,6 +1,6 @@
 # === Me ===
 src\main\python\domain\img.jpeg
-
+src\main\python\domain\img[0-9]*.jpeg
 
 # === GitHub Template ===
 # Byte-compiled / optimized / DLL files
