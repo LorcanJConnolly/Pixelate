@@ -1,5 +1,5 @@
 # === Me ===
-.src\main\python\domain\img.jpeg
+src\main\python\domain\img.jpeg
 
 
 # === GitHub Template ===
@@ -210,3 +210,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+src/main/python/domain/img.jpeg
